@@ -1,0 +1,154 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Mulish', sans-serif;
+}
+
+body {
+    height: 3000vh;
+    width: auto;
+    background-image: url(/Image/Back3.png);
+    background-size: contain;
+    background-repeat: repeat-y;
+}
+
+.intro  {
+    margin-top: 300px;
+    //background-color: khaki;
+
+    h1  {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 6em;
+        text-align: center;
+    } 
+}
+
+.shadow {
+    margin-top: 270px;
+    width: 1520px;
+    //background-color: lavender;
+    
+}
+
+.animate {
+    margin: auto;
+}
+
+.chem1, .chem2, .chem3 {
+    //background-color: lightcoral;
+    position: absolute;
+    
+
+
+    
+}
+
+.chem1 {
+    margin-top: 300px;
+    
+}
+
+.chem2 {
+    margin-top: 1200px;
+    margin-left: 50%;
+    
+}
+
+.chem3 {
+    margin-top: -800px;
+    margin-left: 24%;
+    
+}
+
+
+
+.intro1 {
+    margin-top: 420px;
+    //background-color:lightcoral;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6em;
+    text-align: center;
+    width: 700px;
+}
+
+.jabirname {
+    //background-color: khaki;
+    width: 700px;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.jabirtext1 {
+    background-color: rgba(126, 252, 0, 0.363);
+    width: 500px;
+    margin-top: 740px;
+    margin-left: 50%;
+    padding: 100px;
+    border-radius: 150px; 
+}
+
+.jabirtext2 {
+    margin: 28%;
+    margin-top: 840px;
+    //background-color: lemonchiffon;
+    width: 700px;
+}
+
+.jabirtext3 {
+    margin: 28%;
+    margin-top: 100px;
+    //background-color: rgb(143, 130, 14);
+    width: 700px;
+}
+
+
+.jabirtext4 {
+    margin: 28%;
+    margin-top: 100px;
+    //background-color: rgb(51, 143, 14);
+    width: 700px;
+}
+
+.element {
+    margin-top: 900px;
+    //background-color: lightcoral;
+    display: inline-block;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.invention {
+    margin-top: 300px;
+    font-size: 2em;
+    //background-color: ivory;
+    text-align: center;
+}
+
+.algebra {
+    //background-color: lawngreen;
+    font-size: 6em;
+    text-align: center;
+    margin-top: 900px;
+}
+
+.kwhari {
+    margin-top: -20vh;
+    //background-color: khaki;
+    width: auto;
+    text-align: center;
+
+    h1 {
+        width: 700px;
+        text-align: center, justify;
+        margin-left: 27%;
+        margin-top: 370px;
+    }
+    
+}
+
+.AlgebraAnim {
+    margin-top: 170vh;
+}
