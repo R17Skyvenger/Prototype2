@@ -60,7 +60,7 @@ audio
     background-image: url(/Image/old_map.png);
     position: absolute;
     width: 100%;
-    height: 1220vh;
+    height: 1140vh;
     opacity: 0.5;
     z-index: -2;
 }
@@ -392,6 +392,13 @@ audio
 
     }
 
+    .bg5
+    {
+        position: absolute;
+        margin-top: 40vh;
+        z-index: -1;
+    }
+
 }
 
 .fourth
@@ -400,6 +407,7 @@ audio
     width: 100%;
     height: 400vh;
     float: left;
+    margin-top: -85vh;
 
     .Secimage4
     {
