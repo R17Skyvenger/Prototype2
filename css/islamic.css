@@ -458,14 +458,7 @@ audio
   height: 400vh;
   float: left;
   margin-top: -85vh;
-}
-
-.fourth .Secimage4 {
-  width: 1300px;
-  height: 600px;
-  background-color: black;
-  margin-left: 17%;
-  margin-top: -15%;
+  background-image: url(/Image/Middle\ BG\ 5.png);
 }
 
 .fourth .Image1 {
