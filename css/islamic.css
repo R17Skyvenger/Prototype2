@@ -443,6 +443,7 @@ audio
 
 .third .Bg4 {
   position: absolute;
+  margin-left: 0%;
   margin-top: -83vh;
   z-index: 1;
 }
