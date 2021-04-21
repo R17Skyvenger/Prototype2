@@ -441,13 +441,6 @@ audio
   height: 500px;
 }
 
-.third .Bg4 {
-  position: absolute;
-  margin-left: 0%;
-  margin-top: -83vh;
-  z-index: 1;
-}
-
 .third .bg5 {
   position: absolute;
   margin-top: 40vh;
